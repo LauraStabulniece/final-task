@@ -1,0 +1,24 @@
+.header-line {
+    border-bottom: 2px solid rgb(26, 61, 26);
+}
+
+
+h4 {
+    margin-top: 5px;
+    padding: 20px 0 20px 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 61, 26);
+}
+
+
+.card-text {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+
+.footer-line p {
+    margin-top: 10px;
+    border-top: 2px solid rgb(26, 61, 26);
+}

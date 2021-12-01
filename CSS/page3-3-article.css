@@ -1,0 +1,94 @@
+.divider {
+    padding-left: 25px;
+}
+
+.header-line {
+    border-bottom: 2px solid rgb(26, 61, 26);
+}
+
+
+h1 {
+    margin-top: 5px;
+    padding: 0 0 20px 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: rgb(26, 61, 26);   
+}
+ 
+
+.container-fluid2 {
+    width: 100%;
+    max-width: 1400px;
+    padding-left: 60px;
+    margin: auto;
+    position: absolute;
+}
+
+
+.firstColumn {
+    display: grid;
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+
+.seaImg {
+    opacity: .6;
+    cursor: pointer;
+}
+
+
+.seaImg img:hover {
+    opacity: 1;             
+}
+
+
+.seaImg img {
+    filter: grayscale(70%);
+    transition: 1s;
+}
+
+
+.gallery {
+    width: 150px;
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    cursor: pointer;
+}
+
+
+.sea-image {
+    padding: 10px 10px 10px 0;
+}
+
+
+.sea-image {
+    opacity: .6;
+    cursor: pointer;
+}
+
+
+.sea-image img:hover {
+    opacity: 1;
+}
+
+
+.secondColumn {
+    padding-left: 30px;
+    padding-right: 100px;
+}  
+
+
+
+p {
+    font-size: 12px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: rgb(26, 61, 26); 
+    text-align: justify;
+}
+
+
+.footer-line p {
+    margin-top: 800px;
+    border-top: 2px solid rgb(26, 61, 26);
+}

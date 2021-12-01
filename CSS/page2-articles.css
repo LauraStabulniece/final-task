@@ -1,0 +1,55 @@
+.divider {
+    padding-left: 25px;
+}
+
+
+.card {
+    border: none;
+}
+
+
+.header-line {
+    border-bottom: 2px solid rgb(26, 61, 26);
+}
+
+
+.body-line {
+    max-width: 1400px;
+    border-bottom: 2px solid rgb(26, 61, 26);
+}
+
+
+.magical-things {
+    padding-bottom: 20px;
+}
+
+
+.card-body {
+    padding-top: 0;
+}
+
+
+.card-text {
+    margin-right: -15px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:justify;
+}
+
+
+.pagenr {
+    text-decoration:none;
+    color: rgb(26, 61, 26);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+ }
+
+
+.footer-line p {
+    margin-top: 100px;
+    border-top: 2px solid rgb(26, 61, 26);
+}
+     
+ 
+
+ 
